@@ -1,6 +1,6 @@
 {
   "name": "cd-bootstrap",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "authors": [
     "Jairo Rudas <jairo.enrique@celulardireto.com.br>"
   ],
@@ -21,6 +21,7 @@
     "tests"
   ],
   "dependencies": {
-    "flexboxgrid": "cd-flexboxgrid#^6.4.0"
+    "flexboxgrid": "cd-flexboxgrid#^6.4.0",
+    "jquery": "1.9.1 - 2"
   }
 }
