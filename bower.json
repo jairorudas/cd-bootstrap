@@ -21,7 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "^3.3.6",
     "flexboxgrid": "cd-flexboxgrid#^6.4.0"
   }
 }
