@@ -1,0 +1,23 @@
+{
+  "name": "cd-bootstrap",
+  "version": "0.1.0",
+  "authors": [
+    "Jairo Rudas <jairo.enrique@celulardireto.com.br>"
+  ],
+  "description": "This is a copy of bootstrap version for CelularDireto.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Bootstrap",
+    "CSS"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
